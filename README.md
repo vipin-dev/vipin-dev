@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm Vipin 👋
+## I'm a Frontend Engineer, who loves to code!
+ - I'm looking to collaborate with other passionate developers.
+ - ❤️ for Linux, GTK+, Flutter, React
+ - ⚡ Fun fact: I'm learning cricket with VR!
 <!--
 **vipin-dev/vipin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
